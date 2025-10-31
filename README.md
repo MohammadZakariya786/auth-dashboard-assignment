@@ -118,6 +118,13 @@ Below are the key UI screens of the application — starting from authentication
   </a>
 </p>
 
+### 👤 Tested Api Collection
+<p align="center">
+  <a href="/screenshots/tested-api-collection.png">
+    <img src="/screenshots/tested-api-collection.png" alt="Tested Api Collection" width="380"/><br/>
+    <b>File:</b> Tested Api Collection
+  </a>
+</p>
 
 Click any image to view full-size.
 

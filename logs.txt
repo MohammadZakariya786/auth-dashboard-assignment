@@ -1,0 +1,33 @@
+Project: Scalable Web App
+Developer: Mohammad Zakariya
+Date: 30-Oct-2025
+
+--- backend terminal using npm run dev command ---
+[nodemon] 3.1.10
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,cjs,json
+[nodemon] starting `node server.js`
+[dotenv@17.2.3] injecting env (5) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.locall', '.env'] }
+✅ Server running on port 5000
+✅ MongoDB connected: ac-7yw80k4-shard-00-00.c2lmumm.mongodb.net
+
+--- Authentication APIs ---
+POST /api/auth/signup -> 201 Created
+POST /api/auth/login -> 200 OK
+GET /api/users/me -> 200 OK
+PUT /api/users/me -> 200 OK
+
+--- Task APIs ---
+POST /api/tasks -> 201 Created
+GET /api/tasks -> 200 OK
+PUT /api/tasks/:id -> 200 OK
+DELETE /api/tasks/:id -> 200 OK
+PUT /api/tasks/:id -> 200 OK (changing status to in-progress or completed)
+
+Error Test: 
+Invalid credentials -> 401 Unauthorized
+User already exists -> 404 Bad request
+
+
+All endpoints tested successfully using Thunder Client✅
