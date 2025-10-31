@@ -29,16 +29,22 @@ This repository contains:
 
 ## 📸 Screenshots
 
+Below are the key UI screens of the application — starting from authentication to profile management.
+
+---
+
 ### 🔐 Authentication
 
 <p align="center">
   <a href="/screenshots/login.png">
-    <img src="/screenshots/login.png" alt="Login screen" width="340"/><br/>
+    <img src="/screenshots/login.png" alt="Login screen" width="380"/><br/>
     <b>File:</b> screenshots/login.png — Login Screen
   </a>
-  &nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
   <a href="/screenshots/signup%28validation%20errors%29.png">
-    <img src="/screenshots/signup%28validation%20errors%29.png" alt="Signup validation errors" width="340"/><br/>
+    <img src="/screenshots/signup%28validation%20errors%29.png" alt="Signup validation errors" width="380"/><br/>
     <b>File:</b> screenshots/signup(validation errors).png — Signup (Validation Errors)
   </a>
 </p>
@@ -49,13 +55,8 @@ This repository contains:
 
 <p align="center">
   <a href="/screenshots/Dashboard%20overview.png">
-    <img src="/screenshots/Dashboard%20overview.png" alt="Dashboard overview" width="340"/><br/>
+    <img src="/screenshots/Dashboard%20overview.png" alt="Dashboard overview" width="420"/><br/>
     <b>File:</b> screenshots/Dashboard overview.png — Dashboard Overview
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="/screenshots/tasks-list.png">
-    <img src="/screenshots/tasks-list.png" alt="Tasks list" width="340"/><br/>
-    <b>File:</b> screenshots/tasks-list.png — Tasks List
   </a>
 </p>
 
@@ -64,25 +65,37 @@ This repository contains:
 ### ✅ Tasks Management
 
 <p align="center">
+  <a href="/screenshots/task-add.png">
+    <img src="/screenshots/task-add.png" alt="Add new task" width="380"/><br/>
+    <b>File:</b> screenshots/task-add.png — Add New Task
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="/screenshots/tasks-list.png">
+    <img src="/screenshots/tasks-list.png" alt="Tasks list" width="380"/><br/>
+    <b>File:</b> screenshots/tasks-list.png — Tasks List
+  </a>
+</p>
+
+<p align="center">
   <a href="/screenshots/task-search.png">
-    <img src="/screenshots/task-search.png" alt="Task search" width="300"/><br/>
+    <img src="/screenshots/task-search.png" alt="Task search" width="380"/><br/>
     <b>File:</b> screenshots/task-search.png — Real-time Search
   </a>
-  &nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
   <a href="/screenshots/task-filter-status.png">
-    <img src="/screenshots/task-filter-status.png" alt="Task filter by status" width="300"/><br/>
+    <img src="/screenshots/task-filter-status.png" alt="Task filter by status" width="380"/><br/>
     <b>File:</b> screenshots/task-filter-status.png — Filter by Status
   </a>
 </p>
 
 <p align="center">
-  <a href="/screenshots/task-add.png">
-    <img src="/screenshots/task-add.png" alt="Add new task" width="300"/><br/>
-    <b>File:</b> screenshots/task-add.png — Add New Task
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="/screenshots/task-edit.png">
-    <img src="/screenshots/task-edit.png" alt="Edit task" width="300"/><br/>
+    <img src="/screenshots/task-edit.png" alt="Edit task" width="380"/><br/>
     <b>File:</b> screenshots/task-edit.png — Edit Task
   </a>
 </p>
@@ -93,15 +106,18 @@ This repository contains:
 
 <p align="center">
   <a href="/screenshots/profile-view.png">
-    <img src="/screenshots/profile-view.png" alt="Profile view" width="340"/><br/>
+    <img src="/screenshots/profile-view.png" alt="Profile view" width="380"/><br/>
     <b>File:</b> screenshots/profile-view.png — View Profile
   </a>
-  &nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
   <a href="/screenshots/profile-edit.png">
-    <img src="/screenshots/profile-edit.png" alt="Profile edit" width="340"/><br/>
+    <img src="/screenshots/profile-edit.png" alt="Profile edit" width="380"/><br/>
     <b>File:</b> screenshots/profile-edit.png — Edit Profile
   </a>
 </p>
+
 
 Click any image to view full-size.
 
