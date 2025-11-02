@@ -1,7 +1,7 @@
 # Auth Dashboard (Frontend + Backend)
 
 ## 🎥 Demo Video
-Watch the demo here: [YouTube Unlisted Link](Add your demo link here)
+Watch the demo here: [YouTube Unlisted Link](https://youtu.be/5ael_yn8VfE)
 
 # Full-Stack Authentication Dashboard
 
